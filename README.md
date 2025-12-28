@@ -1,18 +1,7 @@
-# ArtBlock
+# AI-Artist
 
-A simple filter list for blocking AI-generated artists, designed for use in scripts.
+A curated list of **AI-generated artists** and **AI art personas**.
 
----
+This repository documents creative identities and projects where **AI is the primary creator or collaborator**.
 
-## Features
-
-- Lightweight and easy to use  
-- Works with scripts and automated filters  
-- Updated periodically to improve coverage  
-- Helps manage AI-generated art content
-
----
-
-
-
-
+Contributions welcome.
