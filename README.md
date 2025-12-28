@@ -1,4 +1,4 @@
-# AI-Artist
+# ai-artists
 
 A curated list of **AI-generated artists** and **AI art personas**.
 
